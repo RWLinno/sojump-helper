@@ -20,23 +20,23 @@ author : RWLinno
 
 1. 首先进入互填社区的页面
 
-![step1](\pic\step1.jpg)
+![step1](https://github.com/RWLinno/sojump-helper/blob/main/pic/step1.jpg)
 
 2. 按`ctrl+U` 查看网页源代码，随后`ctrl+A`全选，`ctrl+C`复制。
 
-![step2](\pic\step2.jpg)
+![step2](https://github.com/RWLinno/sojump-helper/blob/main/pic/step2.jpg)
 
 3. `ctrl+V`粘贴到程序目录下的page.txt文本中。
 
-![step3](\pic\step3.jpg)
+![step3](https://github.com/RWLinno/sojump-helper/blob/main/pic/step3.jpg)
 
 4.最后安装相应环境，运行main.py即可，点击按钮即可。
 
-![step4](\pic\step4.jpg)
+![step4](https://github.com/RWLinno/sojump-helper/blob/main/pic/step4.jpg)
 
 5.结果：社区上有很多问卷还处理不了(有些要手机端、有些限定复选数等等)，但10秒能够处理一个简单的问卷，经过我实践基本上2分钟就能刷200~400点数了。
 
-![step5](\pic\step5.png)
+![step5](https://github.com/RWLinno/sojump-helper/blob/main/pic/step5.jpg)
 
 
 
